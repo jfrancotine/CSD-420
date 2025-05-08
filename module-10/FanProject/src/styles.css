@@ -1,0 +1,53 @@
+.root {
+    -fx-background-color: #002147;
+}
+
+.label {
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+.text-field {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #FFC72C;
+    -fx-border-width: 1;
+    -fx-border-radius: 4;
+    -fx-background-radius: 4;
+}
+
+.button {
+    -fx-background-color: #FFC72C;
+    -fx-text-fill: #002147;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5;
+}
+
+.instructions-label {
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 13px;
+    -fx-padding: 12;
+    -fx-background-color: rgba(255, 255, 255, 0.1);
+    -fx-background-radius: 8;
+    -fx-border-color: #FFC72C;
+    -fx-border-width: 1;
+    -fx-border-radius: 8;
+}
+
+.action-button {
+    -fx-background-color: #FFC72C;
+    -fx-text-fill: #002147;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5;
+    -fx-font-size: 14px;
+    -fx-pref-width: 100px;
+    -fx-pref-height: 40px;
+}
+
+.text-field {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #FFC72C;
+    -fx-border-width: 1;
+    -fx-border-radius: 4;
+    -fx-background-radius: 4;
+}
